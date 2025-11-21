@@ -37,8 +37,8 @@ export function Hero() {
   
   const defaultInfo = {
     greeting: "안녕하세요,",
-    name: "이제부터 최종 포트폴리오를 만들께요",
-    title: "단국대 교수입니다",
+    name: "진짜 마지막이에요^^",
+    title: "잘 만들어진거 같아요. 이제는 수정이죠",
     description: "프롭테크 기술로 부동산 시장을 분석합니다.",
     profileImage: "/uploads/hero-profile-1763730694133.png",
     backgroundImage: "",
